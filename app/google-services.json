@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "443123480064",
+    "firebase_url": "https://fir-intermediate-training.firebaseio.com",
+    "project_id": "fir-intermediate-training",
+    "storage_bucket": "fir-intermediate-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443123480064:android:d18f7fa59b402d8a3d8ae5",
+        "android_client_info": {
+          "package_name": "com.thirafikaz.firebaseintermediate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443123480064-uqf5cr9nrr545s94kmp3rgfctoeu9icr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_NJJsUmzd_eq9Vl8x5SedJL_Xq2IFmhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443123480064-uqf5cr9nrr545s94kmp3rgfctoeu9icr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
